@@ -61,5 +61,5 @@ To contribute:
 
 If you have any suggestions, questions, or just want to connect:
 
-**YourName**  
+**Mastan Vali Shaik**  
 📧 mastanshaik1331@gmail.com
