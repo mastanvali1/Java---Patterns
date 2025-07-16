@@ -10,7 +10,7 @@ This repository contains a collection of **Java pattern programs** for beginners
 - ✅ Number Patterns (Triangle, Floyd’s Triangle, etc.)
 - ✅ Alphabet Patterns
 - ✅ Hollow Patterns
-- ✅ Diamond, Butterfly, and Zig-Zag Patterns
+- ✅ Diamond Patterns
 - ✅ And many more creative designs!
 
 ---
